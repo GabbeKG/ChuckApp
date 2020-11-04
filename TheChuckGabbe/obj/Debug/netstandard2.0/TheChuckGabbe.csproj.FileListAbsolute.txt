@@ -1,0 +1,14 @@
+C:\Users\el_su\source\repos\TheChuckGabbe\TheChuckGabbe\bin\Debug\netstandard2.0\TheChuckGabbe.deps.json
+C:\Users\el_su\source\repos\TheChuckGabbe\TheChuckGabbe\bin\Debug\netstandard2.0\TheChuckGabbe.dll
+C:\Users\el_su\source\repos\TheChuckGabbe\TheChuckGabbe\obj\Debug\netstandard2.0\TheChuckGabbe.csprojAssemblyReference.cache
+C:\Users\el_su\source\repos\TheChuckGabbe\TheChuckGabbe\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\el_su\source\repos\TheChuckGabbe\TheChuckGabbe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\el_su\source\repos\TheChuckGabbe\TheChuckGabbe\obj\Debug\netstandard2.0\TheChuckGabbe.AssemblyInfoInputs.cache
+C:\Users\el_su\source\repos\TheChuckGabbe\TheChuckGabbe\obj\Debug\netstandard2.0\TheChuckGabbe.AssemblyInfo.cs
+C:\Users\el_su\source\repos\TheChuckGabbe\TheChuckGabbe\obj\Debug\netstandard2.0\TheChuckGabbe.csproj.CoreCompileInputs.cache
+C:\Users\el_su\source\repos\TheChuckGabbe\TheChuckGabbe\obj\Debug\netstandard2.0\TheChuckGabbe.dll
+C:\Users\el_su\source\repos\TheChuckGabbe\TheChuckGabbe\obj\Debug\netstandard2.0\ref\TheChuckGabbe.dll
+C:\Users\el_su\source\repos\TheChuckGabbe\TheChuckGabbe\obj\Debug\netstandard2.0\TheChuckGabbe.pdb
+C:\Users\el_su\source\repos\TheChuckGabbe\TheChuckGabbe\bin\Debug\netstandard2.0\ref\TheChuckGabbe.dll
+C:\Users\el_su\source\repos\TheChuckGabbe\TheChuckGabbe\bin\Debug\netstandard2.0\TheChuckGabbe.pdb
+C:\Users\el_su\source\repos\TheChuckGabbe\TheChuckGabbe\obj\Debug\netstandard2.0\XamlC.stamp
